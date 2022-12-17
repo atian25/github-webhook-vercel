@@ -3,3 +3,6 @@ dist/
 coverage/
 *-lock*[.yaml, .json]
 **/*.tgz
+.vercel
+**/*.js
+**/*.d.ts

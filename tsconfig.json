@@ -1,0 +1,18 @@
+{
+  "extends": "@artus/tsconfig",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "noUnusedParameters": false,
+    "noUnusedLocals":false,
+    "resolveJsonModule": true
+  },
+  "include": [
+    "**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "test",
+    "dist",
+    "coverage"
+  ]
+}

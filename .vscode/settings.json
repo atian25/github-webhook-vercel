@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".nyc_output": true,
+    ".tempCodeRunnerFile.javascript": true,
+    ".vscode-test": true,
+    ".vscode/.history": true,
+    "**/.idea": true,
+    "**/node_modules/_*@*": true,
+    "**/node_modules/.*@*": true,
+    "**/node_modules/babel-*": true,
+    "**/node_modules/power-assert-*": true,
+    "assembly": true,
+    "**/node_modules": false
+  }
+}
